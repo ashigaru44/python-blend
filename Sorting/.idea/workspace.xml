@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f84a1a02-d3a6-427e-b59d-a1288d832bed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXqh8xKjHVoq86oHWC4hg1ifbl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BinarySearchTree" />
+      <recent name="$PROJECT_DIR$/SortingAlgorithms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="Sorting" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Sorting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__main__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sorting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortingAlgorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortingAlgorithms/__main__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sorts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sorting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortingAlgorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortingAlgorithms/sorts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sorting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortingAlgorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortingAlgorithms/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="Python.Sorting" />
+      <item itemvalue="Python.sorts" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.__main__" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.__main__" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Python.sorts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f84a1a02-d3a6-427e-b59d-a1288d832bed" name="Default Changelist" comment="" />
+      <created>1584995902289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584995902289</updated>
+      <workItem from="1584995903695" duration="2053000" />
+      <workItem from="1584999026022" duration="2124000" />
+      <workItem from="1585003896615" duration="5562000" />
+      <workItem from="1585017430079" duration="20418000" />
+      <workItem from="1585765286469" duration="46000" />
+      <workItem from="1585765372290" duration="109000" />
+      <workItem from="1585765653016" duration="361000" />
+      <workItem from="1585766030329" duration="179000" />
+      <workItem from="1585771029026" duration="48000" />
+      <workItem from="1585773094307" duration="1234000" />
+      <workItem from="1585783471282" duration="686000" />
+      <workItem from="1585799356808" duration="599000" />
+      <workItem from="1586369476358" duration="4958000" />
+      <workItem from="1586378343348" duration="2363000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="652" y="80" width="641" height="923" key="#Dockerfile" timestamp="1586369552474">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state x="652" y="80" width="641" height="923" key="#Dockerfile/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1586369552474" />
+    <state x="550" y="278" width="800" height="684" key="#Updates" timestamp="1585765675332">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state x="550" y="278" width="800" height="684" key="#Updates/0.27.1920.1173@0.27.1920.1173" timestamp="1585765675332" />
+    <state x="418" y="271" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584997136763">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state x="418" y="271" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1584997136763" />
+    <state x="743" y="371" width="424" height="491" key="FileChooserDialogImpl" timestamp="1584997135798">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state x="743" y="371" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1584997135798" />
+    <state width="914" height="326" key="GridCell.Tab.0.bottom" timestamp="1586385979006">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="914" height="326" key="GridCell.Tab.0.bottom/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1586385979006" />
+    <state width="914" height="326" key="GridCell.Tab.0.center" timestamp="1586385979005">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="914" height="326" key="GridCell.Tab.0.center/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1586385979005" />
+    <state width="914" height="326" key="GridCell.Tab.0.left" timestamp="1586385979005">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="914" height="326" key="GridCell.Tab.0.left/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1586385979005" />
+    <state width="914" height="326" key="GridCell.Tab.0.right" timestamp="1586385979006">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="914" height="326" key="GridCell.Tab.0.right/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1586385979006" />
+    <state width="1874" height="388" key="GridCell.Tab.1.bottom" timestamp="1584997958626">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="1874" height="388" key="GridCell.Tab.1.bottom/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1584997958626" />
+    <state width="1874" height="388" key="GridCell.Tab.1.center" timestamp="1584997958625">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="1874" height="388" key="GridCell.Tab.1.center/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1584997958625" />
+    <state width="1874" height="388" key="GridCell.Tab.1.left" timestamp="1584997958625">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="1874" height="388" key="GridCell.Tab.1.left/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1584997958625" />
+    <state width="1874" height="388" key="GridCell.Tab.1.right" timestamp="1584997958625">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="1874" height="388" key="GridCell.Tab.1.right/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1584997958625" />
+    <state x="620" y="441" key="com.intellij.ide.util.TipDialog" timestamp="1585766040105">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state x="620" y="441" key="com.intellij.ide.util.TipDialog/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1585017836383" />
+    <state x="620" y="441" key="com.intellij.ide.util.TipDialog/0.27.1920.1173@0.27.1920.1173" timestamp="1585766040105" />
+    <state x="623" y="289" width="672" height="678" key="search.everywhere.popup" timestamp="1585026357534">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state x="623" y="289" width="672" height="678" key="search.everywhere.popup/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1585026357534" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Sorting$__main__.coverage" NAME="__main__ Coverage Results" MODIFIED="1586379416332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SortingAlgorithms" />
+    <SUITE FILE_PATH="coverage/Sorting$test.coverage" NAME="test Coverage Results" MODIFIED="1586385978988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SortingAlgorithms" />
+    <SUITE FILE_PATH="coverage/Sorting$sorts.coverage" NAME="sorts Coverage Results" MODIFIED="1585018096339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SortingAlgorithms" />
+    <SUITE FILE_PATH="coverage/Sorting$Sorting.coverage" NAME="Sorting Coverage Results" MODIFIED="1584997316506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+  </component>
+</project>
